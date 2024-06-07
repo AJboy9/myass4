@@ -1,0 +1,49 @@
+/* div{
+
+    padding: 70px;
+    border: 2px solid goldenrod;
+}
+
+.ex1{
+    width: 300px;
+    border: 2px solid gold;
+    background-color: brown;
+}
+
+.ex2{
+    width: 300px;
+    padding: 25px;
+    border: 2px solid gold;
+    background-color: brown;
+}
+
+.ex3{
+    width: 300px;
+    padding: 25px 45px;
+    border: 2px solid gold;
+    background-color: brown;
+} */
+
+div{
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+}
+
+.ex1{
+    height: 100px;
+    width: 50%;
+    background-color: aqua;
+}
+
+.ex2{
+    height: 100px;
+    width: 100%;
+    background-color: powderblue;
+}
+
+.ex3{
+    height: 100px;
+    background-color: powderblue;
+    max-width: 500px;
+}

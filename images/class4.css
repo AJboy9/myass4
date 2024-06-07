@@ -1,0 +1,19 @@
+div{
+    margin: 25px 75px 100px 50px;
+    border: 2px solid greenyellow;
+}
+
+.auto{
+    margin: auto;
+    border: 2px solid blue;
+}
+
+.inherit{
+    margin-left: 100px;
+    border: 2px solid red;
+}
+
+.new{
+    margin-left: inherit;
+    border: 2px solid red;
+}

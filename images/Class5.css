@@ -1,0 +1,110 @@
+/* div{
+    background-color: lightgray;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.ex1{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+}
+
+.ex2{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: medium;
+}
+
+.ex3{
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thick;
+}
+
+.ex4{
+    border: 4px solid black;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 4px;
+}
+
+.outline{
+    margin: 30px;
+    border: 2px solid black;
+    outline: 2px solid red;
+    outline-offset: 20px;
+    background-color: aqua;
+}
+
+.rtl{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+img.a{
+    vertical-align: baseline;
+}
+
+img.b{
+    vertical-align: text-top;
+}
+
+img.c{
+    vertical-align: text-bottom;
+}
+
+img.d{
+    vertical-align: sub;
+}
+
+img{
+    vertical-align: super;
+}
+
+.indent{
+    text-indent: 50px; */
+/* } */
+
+.letterspacing{
+    /* letter-spacing: 5px; */
+    letter-spacing: -2px;
+}
+
+.height{
+    /* line-height: 0.08; */
+    line-height: 1.9;
+}
+
+.wordspacing{
+    /* word-spacing: 10px; */
+    word-spacing: -2px;
+}
+
+.whitespace{
+    white-space: nowrap;
+}
+
+.shadow{
+    text-shadow: 2px 2px 5px blue;
+
+}
+
+.shadow1{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.combine{
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+
+.three{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
